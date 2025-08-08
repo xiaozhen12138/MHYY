@@ -13,8 +13,8 @@ notifications:
     webhook_url: "https://oapi.dingtalk.com/robot/send?access_token=2b350a189512e1484d54e8b588c163f787ec9c2798725490f92f63d42b1e2b17"
   # Telegram机器人
   telegram:
-    bot_token: "6689586847:AAH0lg1uuXiZMsou9WNYif7qqrbCSdZWWj0"
-    chat_id: "1762053255"
+    bot_token: "7704869197:AAHEYXqZ7Eixu2MH-h2uX9b2Yb05Tl5Vnnw"
+    chat_id: "5829761274"
   # PushPlus推送加，https://www.pushplus.plus/
   pushplus:
     key: ""
